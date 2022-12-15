@@ -1,8 +1,8 @@
-# chess-ai
-A chess engine by someone who doesn't know how to play chess.
+# chess-JS
+A Versitile Chess AI engine that is coded in JavaScript
 
 ## About
-chess-ai is a simple chess AI in JavaScript. 
+chess-JS is a simple chess AI in JavaScript. 
 
 The primary concern of chess-ai is the decision-making part of the application. All functionality outside the scope of the AI are implemented using external libraries:
 - Chessboard GUI: Using the chessboard.js API
